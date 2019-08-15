@@ -8,4 +8,6 @@ p{
 }
 span{
     color: pink;
+    font-size: 1.1em;
+    font-weight: bold;
 }
