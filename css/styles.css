@@ -1,3 +1,8 @@
 h1{
-    color: aqua
+    color: steelblue;
+    font-weight: bold;
+}
+p{
+    color: red;
+    font-weight:normal;
 }
